@@ -8,3 +8,5 @@ Primes.js simply implements a loop of modular arithmetic. MatrixFill fills a mat
 There could be a much better algorithm for both programs.
 ## How to Run
 It is not recommended to run MatrixFill. One can run Primes by downloading from the repository [here](https://github.com/TaylorCharlesHall/misc) then running with node or copying and pasting into Dev Tools.
+
+[Home](https://taylorcharleshall.github.io)
