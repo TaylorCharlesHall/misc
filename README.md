@@ -1,3 +1,4 @@
+<img src="compwork.jpg" width='100'/>
 # Miscellaneous Work
 I decided to include some experimental or just for fun programs here to tinker with in the future. I've included Primes.js that will factor composities and MatrixFill that a friend wanted me to create finding random inverse matrices with only integer values.
 ## Details
